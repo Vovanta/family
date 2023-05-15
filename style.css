@@ -1,0 +1,43 @@
+body {
+    background: darksalmon;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+h1 {
+    color: wheat;
+}
+
+h2 {
+    font-size: 16px;
+    color: darkslategrey;
+    font-weight: 500;
+}
+
+p {
+    color: darkslategrey;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 25%;
+    padding: 20px;
+    margin: 5px;
+}
+
+.con {
+    max-width: 100%;
+    margin: auto;
+}
+
+.vido {
+    margin-top: 30px;
+    
+}
+
+
+
